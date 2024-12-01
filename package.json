@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.701.0"
+  },
+  "devDependencies": {
+    "@vault-db/core": "github:vault-db/core",
+    "dotenv": "^16.4.5"
+  }
+}
