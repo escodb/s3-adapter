@@ -1,4 +1,6 @@
 {
+  "name": "@vault-db/s3-adapter",
+  "license": "Apache-2.0",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.701.0"
   },
