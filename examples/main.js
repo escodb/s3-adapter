@@ -2,7 +2,7 @@
 
 require('dotenv').config()
 
-const Store = require('@vault-db/core/lib/store')
+const Store = require('@escodb/core/lib/store')
 const S3Adapter = require('../lib/s3_adapter')
 
 async function main () {
